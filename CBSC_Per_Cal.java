@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class CBSC {
+public class CBSC_Per_Cal {
     public static void main(String[] args) {
         
         float total = 0;
